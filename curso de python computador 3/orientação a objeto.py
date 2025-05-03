@@ -25,6 +25,6 @@ vendedor02.vendeu(vendeuMes)
 vendedor02.bateumeta(meta)
 
 if vendedor01.venda > vendedor02.venda:
-    print(f"{vendedor01} vendeu mais que {vendedor02}")
+    print(f"{vendedor01.nome} vendeu mais que {vendedor02.nome}")
 else:
-    print(f"{vendedor02} vendeu mais que {vendedor01}")
+    print(f"{vendedor02.nome} vendeu mais que {vendedor01.nome}")
