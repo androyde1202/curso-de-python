@@ -2,6 +2,6 @@ equipamento=str(input("qual equipamento você dejesa melhorar coloque com todas 
 raridade=str("N/E")
 if equipamento == "Giant Gauntlet" or "Spiky Ball" or "Snake Bracelet" or "Frozen Arrow" or "Magic Mirror" or "Action Figure" or "Fireball" or "Lavaloon Puppet" or "Rocket Spear" or "Electro Boots":
     raridade=str("epica")
-else equipamento == "Barbarian Puppet" "Rage Vial" "Earthquake Boots" "Vampstache" "Archer Puppet" "Invisibility Vial" "Giant Arrow" "Healer Puppet" "Dark Orb" "Henchmen Puppet" "Metal Pants" "Noble Iron" "Eternal Tome" "Life Gem" "Rage Gem" "Healing Tome" "Royal Gem" "Seeking Shield" "Hog Rider Puppet" "Haste Vial":
+else equipamento == "Barbarian Puppet" or "Rage Vial" or "Earthquake Boots" or "Vampstache" or "Archer Puppet" or "Invisibility Vial" or  "Giant Arrow" or "Healer Puppet" or "Dark Orb" or "Henchmen Puppet" or "Metal Pants" or "Noble Iron" or "Eternal Tome" or "Life Gem" or "Rage Gem" or "Healing Tome" or "Royal Gem" or "Seeking Shield" or "Hog Rider Puppet" or "Haste Vial":
     raridade=str("comum")
-if
+if raridade==
